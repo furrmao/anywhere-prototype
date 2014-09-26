@@ -1,7 +1,7 @@
 <ion-view title="Dashboard">
     <ion-content class="padding" ng-controller="ApplicationCtrl" scroll="false">
 
-        <ion-slide-box class="slide-box" show-pager="true">
+        <ion-slide-box class="slide-box" show-pager="true" has-bouncing="false">
             <ion-slide>
                 <div class="tileContainer" masonry='{ "columnWidth": 120, "transitionDuration":"0", "itemSelector": ".tile" }'>
                     <masonry-tile ng-repeat="item in items" tile="{{ item }}">
