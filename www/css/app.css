@@ -573,6 +573,21 @@ body {
           font-family: robotoregular;
           font-size: 14px; }
 
+/* START:AO COLOUR SCHEME */
+/* Brand Colours */
+/* Monochrome */
+/* Spot Highlights */
+/* Strong Neutrals */
+/* Light Neutrals */
+/* END:AO COLOUR SCHEME */
+/* START:FLAT COLOUR SCHEME */
+/* END:FLAT COLOUR SCHEME */
+/* START:GOOGLE MATERIAL COLOUR SCHEME */
+/* END:GOOGLE MATERIAL COLOUR SCHEME */
+/** START:HTML **/
+/** END:HTML **/
+/* START:TILES */
+/* END:TILES */
 .slide-box {
   height: 100%;
   width: 100%; }
@@ -583,5 +598,11 @@ body {
 
 .slider-pager {
   height: 2px; }
+
+.pane {
+  background-color: black; }
+
+.bar-dark {
+  background-color: #4b6366; }
 
 /*# sourceMappingURL=app.css.map */

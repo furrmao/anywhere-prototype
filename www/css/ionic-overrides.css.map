@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,UAAU;EACR,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;;AAIb,MAAM;EACJ,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI",
-"sources": ["ionic-overrides.scss"],
-"names": [],
-"file": "ionic-overrides.css"
-}
